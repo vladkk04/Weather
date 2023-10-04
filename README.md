@@ -1,2 +1,2 @@
 # Weather
-![alt text](http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dallara_logo.svg/800px-Dallara_logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dallara_logo.svg/800px-Dallara_logo.svg.png)
+![alt text]([http://url/to/img.png](https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dallara_logo.svg/800px-Dallara_logo.svg.png)https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Dallara_logo.svg/800px-Dallara_logo.svg.png](https://github.com/Lindgren-Askold/Weather/blob/main/documentation/Image%20Preview.jpg)https://github.com/Lindgren-Askold/Weather/blob/main/documentation/Image%20Preview.jpg)
